@@ -1,0 +1,8 @@
+valor1 = int(input("Nota primeiro bimestre: "))
+valor2 = int(input("Nota segundo bimestre: "))
+valor3 = int(input("Nota terceiro bimestre: "))
+valor4 = int(input("Nota quarto bimestre: "))
+
+media = (valor1+valor2+valor3+valor4)/4
+
+print("A media do aluno é: ",media)
